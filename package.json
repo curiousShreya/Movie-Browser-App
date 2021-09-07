@@ -2,7 +2,7 @@
   "name": "moviebrowser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://curiousShreya.github.io/movie-browser-app",
+  "homepage": "http://curiousShreya.github.io/Movie-Browser-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
